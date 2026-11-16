@@ -1,0 +1,5 @@
+Device: bonito
+Platform: Snapdragon 670
+GPU: Adreno 615
+Android: 12
+Bootloader: unlocked
