@@ -1,0 +1,3 @@
+#include common_defconfig
+#include sdm670.config
+#include bonito.config
